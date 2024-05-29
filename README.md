@@ -15,15 +15,25 @@ This task is a binary classification problem in machine learning because we are 
 Below are the description of the features in the data:
 
 Survival: 0 = Did not survive, 1 = Survived
+
 Pclass: Ticket class where 1 = First class, 2 = Second class, 3 = Third class. This can also be seen as a proxy for socio-economic status.
+
 Name: Name of the Passanger abaord the titanic
+
 Sex: Male or female
+
 Age: Age in years, fractional if less than 1
+
 SibSp: Number of siblings or spouses aboard the titanic
+
 Parch: Number of parents or children aboard the titanic
+
 Ticket: Passenger ticket number
+
 Fare: Passenger fare
+
 Cabin: Cabin number
+
 Embarked: Point of embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
 
 # Evaluation Metrics
